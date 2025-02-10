@@ -1,5 +1,7 @@
 print("Hello World")
 
+print("Factorial Calculator")
+
 num = int(input("Enter a number: "))
 
 factorial = 1
